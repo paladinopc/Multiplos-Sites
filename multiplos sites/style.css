@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Paprika&display=swap');
+body{
+  background-color: #b9b9b9;  
+  margin: 0px;
+  
+}
+h1{
+    background-color: #606060;
+    margin: 0px;
+    text-align: center;
+    font-family: "Paprika", system-ui;
+    
+}
+nav{
+    background-color: #474747;
+    margin: 0px;
+    padding: 10px;
+    text-align: center;
+}
+a{
+    color:#ffffff;
+    background-color: #474747;
+    margin: 0px;
+    padding: 10px;
+    text-decoration: none;
+    padding: 5px 10px 5px 10px;
+    
+    
+}
+a:hover{
+    color:#ffffff;
+    background-color: #222222;
+    margin: 0px;
+    padding: 5px 10px 5px 10px;
+    border-radius: 20px;
+}
